@@ -31,7 +31,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="❀⋟ ʜᴇʟᴘ ⋞❀", callback_data="settings_back_helper"
+                text="✭ ʜᴇʟᴘ ✭", callback_data="settings_back_helper"
             )
         ],
         [
@@ -44,7 +44,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✮ sᴏᴜʀᴄᴇ ✮", url="https://github.com/XdityaHalder/SankiMusic"
+                text="✮ sᴏᴜʀᴄᴇ ✮", url="https://te.legra.ph/file/e3c04d5de2c16feae6aeb.mp4"
             )
         ]
      ]
